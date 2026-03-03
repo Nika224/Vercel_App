@@ -172,7 +172,7 @@
 | | |
 |---|---|
 | **Preconditions** | Email is not already registered |
-| **Test Data** | First Name: John, Last Name: Doe, Email: johndoe@example.com, Phone: 0912345678, Street: Main St 1, City: Zagreb, ZIP: 10000, Password: Test1234!, Confirm Password: Test1234!, Terms: checked |
+| **Test Data** | First Name: John, Last Name: Doe, Email: johndoe@example.com, Phone: 0912345678, Street: StreetName 22, City: Split, ZIP: 21000, Password: Test1234!, Confirm Password: Test1234!, Terms: checked |
 | **Steps** | 1. Navigate to Create Account page<br>2. Fill in all fields with valid data<br>3. Check **I agree to the Terms and Conditions**<br>4. Click **Create Account** |
 | **Expected Result** | Account is created; user is redirected or shown a success message |
 | **Actual Result** | Account is created; user is shown a success message and redirected back to the Login page |
